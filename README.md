@@ -58,11 +58,9 @@ All of them are listed in requirements.txt.
 pip install -r requirements.txt
 ```
 
-2. Set the path to the data folder in the DATA_DIR variable at the top of merge.py, then run the script. It creates results.json and the png charts:
-
-```
-python merge.py
-```
+2. Run the processing script (it automatically locates the `data/` folder, cleans the dataset, and generates `results.json` along with the PNG charts):
+   ```bash
+   python merge.py
 
 3. Start the Streamlit dashboard:
 
