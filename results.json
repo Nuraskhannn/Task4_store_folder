@@ -1,0 +1,158 @@
+{
+    "STORE1": {
+        "unique_users": 3221,
+        "unique_author_sets": 324,
+        "popular_author": "Darron Ernser, Miss Lorina Kertzmann",
+        "best_buyer_ids": [
+            48403,
+            48904,
+            50056
+        ],
+        "top_5_days": [
+            {
+                "date": "2025-08-20",
+                "paid_price": 3716.66
+            },
+            {
+                "date": "2025-09-22",
+                "paid_price": 3584.7599999999998
+            },
+            {
+                "date": "2026-01-15",
+                "paid_price": 3304.98
+            },
+            {
+                "date": "2025-09-03",
+                "paid_price": 3261.35
+            },
+            {
+                "date": "2025-10-17",
+                "paid_price": 3249.17
+            }
+        ]
+    },
+    "STORE2": {
+        "unique_users": 3166,
+        "unique_author_sets": 281,
+        "popular_author": "Kenneth Hamill, Marcus McKenzie",
+        "best_buyer_ids": [
+            51014
+        ],
+        "top_5_days": [
+            {
+                "date": "2025-11-16",
+                "paid_price": 3786.6099999999997
+            },
+            {
+                "date": "2025-12-12",
+                "paid_price": 3122.99
+            },
+            {
+                "date": "2025-12-10",
+                "paid_price": 3023.62
+            },
+            {
+                "date": "2025-09-19",
+                "paid_price": 2937.21
+            },
+            {
+                "date": "2025-11-19",
+                "paid_price": 2912.81
+            }
+        ]
+    },
+    "STORE3": {
+        "unique_users": 2955,
+        "unique_author_sets": 307,
+        "popular_author": "Loreta Metz",
+        "best_buyer_ids": [
+            52881,
+            53869,
+            54846
+        ],
+        "top_5_days": [
+            {
+                "date": "2025-10-09",
+                "paid_price": 3551.19
+            },
+            {
+                "date": "2025-09-21",
+                "paid_price": 3242.4
+            },
+            {
+                "date": "2025-09-04",
+                "paid_price": 3040.2000000000003
+            },
+            {
+                "date": "2025-09-30",
+                "paid_price": 3016.1
+            },
+            {
+                "date": "2025-09-01",
+                "paid_price": 2936.02
+            }
+        ]
+    },
+    "STORE4": {
+        "unique_users": 2850,
+        "unique_author_sets": 299,
+        "popular_author": "Emil Rempel, Heriberto Kutch, Merle Rice",
+        "best_buyer_ids": [
+            53347,
+            54809
+        ],
+        "top_5_days": [
+            {
+                "date": "2025-11-24",
+                "paid_price": 4367.11
+            },
+            {
+                "date": "2025-11-17",
+                "paid_price": 3810.46
+            },
+            {
+                "date": "2025-11-28",
+                "paid_price": 3441.9900000000002
+            },
+            {
+                "date": "2025-11-13",
+                "paid_price": 3400.02
+            },
+            {
+                "date": "2025-09-21",
+                "paid_price": 3302.94
+            }
+        ]
+    },
+    "STORE5": {
+        "unique_users": 2987,
+        "unique_author_sets": 311,
+        "popular_author": "Dulcie Bode",
+        "best_buyer_ids": [
+            52895,
+            53969
+        ],
+        "top_5_days": [
+            {
+                "date": "2025-10-20",
+                "paid_price": 3490.66
+            },
+            {
+                "date": "2025-11-28",
+                "paid_price": 3266.02
+            },
+            {
+                "date": "2025-09-27",
+                "paid_price": 3187.1
+            },
+            {
+                "date": "2025-10-17",
+                "paid_price": 3160.69
+            },
+            {
+                "date": "2025-12-05",
+                "paid_price": 3118.34
+            }
+        ]
+    }
+}
