@@ -1,5 +1,7 @@
 # Multi-Store Analytics Pipeline and Dashboard
 
+**Live Dashboard:** https://task4storefolder-enkg6hmhkiqwa7jpkdxzdn.streamlit.app/
+
 This project processes and cleans the data of five online stores (STORE1 - STORE5), calculates some business metrics for each of them and shows the results in a Streamlit dashboard with a simple text chat.
 
 ## What was done
